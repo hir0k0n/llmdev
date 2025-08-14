@@ -1,0 +1,16 @@
+/* ヘッダー部分 */
+.header {
+    color: #fff;
+    background-color: #84ceef;
+}
+/* メイン部分 */
+.main h1 {
+    color: #e47292;
+    display: flex;
+    justify-content: center;
+}
+/* フッター部分*/
+.footer div {
+    color: #fff;
+    background-color: #040000;
+}
