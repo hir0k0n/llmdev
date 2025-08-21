@@ -40,7 +40,7 @@ body {
 
 /* ユーザーのメッセージスタイル */
 .user-message {
-  background-color: #49ce59;       /* ユーザーのメッセージ背景色を薄い青に設定 */
+  background-color: #49ce59;       /* ユーザーのメッセージ背景色をグリーンに設定 */
   text-align: right;               /* 右寄せに設定 */
   margin-left: auto;               /* 自動的に左側のマージンを追加し右寄せ */
 }
